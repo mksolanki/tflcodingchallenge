@@ -12,8 +12,7 @@ Below Software/Tools used for this coding challenge application:
 ### Pre-requisite
 Below is pre-requisite to run this coding challenge application:
 * Java version jdk-17.0.9 is installed. Set environment variable, JAVA_HOME=<path to jdk-17.0.9> and JAVA_HOME/bin is added to Path.
-* Maven version 3.9.4 is installed. Set environment variable, MAVEN_HOME=<path to maven 3.9.4> and MAVEN_HOME/bin is added to Path
-* Extract coding challenge zip file.
+* Maven version 3.9.4 is installed. Set environment variable, MAVEN_HOME=<path to maven 3.9.4> and MAVEN_HOME/bin is added to Path.
 * Internet connection or any other in-house maven repository available to download required maven dependencies for this project.
 * Clone the code from GitHub public repository below.
   ``` 
